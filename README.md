@@ -1,0 +1,1 @@
+# kimi-container-capability-map
